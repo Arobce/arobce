@@ -1,7 +1,4 @@
-### Hey there 👋
-
-
-Here are some ideas to get you started:
+### Namaste 🙏
 
 - 🔭 I’m currently working on my portfolio website. 😉
 - 🌱 I’m currently learning how to better use SOLID principles.
