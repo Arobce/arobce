@@ -30,6 +30,10 @@
 <br />
 <br />
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-two-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/arobce)
+
+
 <!--START_SECTION:activity-->
 
 ---
