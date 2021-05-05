@@ -31,7 +31,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-two-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/arobce)
+[![Spotify](https://https://novatorem-38e0pet0x-arobce.vercel.app/api/spotify)](https://open.spotify.com/user/arobce)
 
 
 <!--START_SECTION:activity-->
