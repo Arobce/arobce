@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio website. 😉
 - 🌱 I’m currently learning how to better use SOLID principles.
 - 🤔 I’m looking for help with UI/UX.
-- 💬 Ask me about life.
+- 📖 I'm currently reading Willpower: Rediscovering the Greatest Human by John Tierney and Roy Baumeister
 - 📫 How to reach me: arobce@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a desk cactus called Cyaki. Yeah very original.
@@ -32,9 +32,6 @@
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem-two-sigma.vercel.app/api/spotify" alt="Roshan Spotify Playing" width="350" />](https://open.spotify.com/user/arobce)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
