@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio website. 😉
 - 🌱 I’m currently learning how to better use SOLID principles.
 - 🤔 I’m looking for help with UI/UX.
-- 📖 I'm currently reading Willpower: Rediscovering the Greatest Human by John Tierney and Roy Baumeister
+- 📖 I'm currently reading Willpower: Psycho-Cybernetics by Maxwell Maltz
 - 📫 How to reach me: arobce@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a desk cactus called Cyaki. Yeah very original.
