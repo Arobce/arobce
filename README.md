@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-- 🔭 I’m currently working on my portfolio website. 😉
+- 🔭 I’m currently working on an LMS website. 😉
 - 🌱 I’m currently learning how to better use SOLID principles.
 - 🤔 I’m looking for help with UI/UX.
 - 📖 I'm currently reading Psycho-Cybernetics by Maxwell Maltz
