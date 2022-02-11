@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an LMS website. 😉
 - 🌱 I’m currently learning advanced CSS.
-- 📖 I'm currently reading Psycho-Cybernetics by Maxwell Maltz
+- 📖 I'm currently reading Atomic Habits by James Clear
 - 📫 How to reach me: arobce@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a desk cactus called Cyaki. Yeah very original.
