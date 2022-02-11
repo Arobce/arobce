@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-- 🔭 I’m currently working on an LMS website. 😉
+- 🔭 I’m currently working on a services booking website. 😉
 - 🌱 I’m currently learning advanced CSS.
 - 📖 I'm currently reading Atomic Habits by James Clear
 - 📫 How to reach me: arobce@gmail.com.
