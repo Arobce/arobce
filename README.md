@@ -1,7 +1,7 @@
 ### Namaste 🙏
 
 - 🔭 I’m currently working on a services booking website. 😉
-- 🌱 I’m currently learning advanced CSS.
+- 🌱 I’m currently learning Unity.
 - 📖 I'm currently reading Atomic Habits by James Clear
 - 📫 How to reach me: arobce@gmail.com.
 - 😄 Pronouns: He/His
