@@ -30,7 +30,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-two-sigma.vercel.app/api/spotify" alt="Roshan Spotify Playing" width="350" />](https://open.spotify.com/user/arobce)
+###[<img src="https://novatorem-two-sigma.vercel.app/api/spotify" alt="Roshan Spotify Playing" width="350" />](https://open.spotify.com/user/arobce)
 
 ---
 
