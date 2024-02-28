@@ -1,8 +1,8 @@
 ### Namaste 🙏
 
-- 🔭 I’m currently working on a services booking website. 😉
+- 🔭 I’m currently working on a new internet!! 😉
 - 🌱 I’m currently learning Unity.
-- 📖 I'm currently reading Atomic Habits by James Clear
+- 📖 I'm currently reading Shoe Dog.
 - 📫 How to reach me: arobce@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a desk cactus called Cyaki. Yeah very original.
